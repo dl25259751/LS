@@ -1,0 +1,15 @@
+{
+  "playerChoice" : "Choose one: ",
+  "invalidChoice" : "That's not a valid choice",
+  "playerRoundWin" : "You Win!",
+  "computerRoundWin" : "Computer Wins!",
+  "roundTie" : "it's a tie.",
+  "playerGrandWinner" : "You are the Grand Winner!",
+  "computerGrandWinnder" : "The Computer is the Grand Winner!",
+  "welcomeMSG" : "Welcome to rock_paper_scissor.js!",
+  "gameIntro" :  "This program is a console app in which you face off against your PC in a game of rock, paper, scissor, lizard, and spock in a best of ",
+  "playAgain" : "Do you want to play again (y/n)",
+  "invalidPlayAgain" : "Invalid choice, please enter \"y\" or \"n\".",
+  "playerScore" : "The current score is Player : ",
+  "computerScore": " Computer : "
+} 
